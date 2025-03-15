@@ -93,6 +93,7 @@ body {
     background-color: #f4f4fd;
 }
 .team-title {
+    text-transform: capitalize;
     font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -120,7 +121,6 @@ text-align: center;
 color: #434455;
 }
 .port-title {
-    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
