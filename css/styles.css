@@ -75,14 +75,14 @@ body {
 .main-button:focus {
     background-color: #404bbf;
 }
-.adv-title {
+.advantages-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.adv-text {
+.adantages-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
