@@ -20,10 +20,10 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:  #2e2f42;
+    color:  #4d5ae5;
   }
 .header-logo .header-web{
-    color: #4d5ae5;
+    color: #2e2f42;
 } 
 .footer-logo .header-web {
     color: #f4f4fd;
@@ -69,6 +69,11 @@ body {
     letter-spacing: 0.04em;
     text-align: center;
     color: #ffffff;
+    cursor: pointer;
+}
+.main-button:hover,
+.main-button:focus {
+    background-color: 404bbf;
 }
 .adv-title {
     font-weight: 500;
@@ -115,6 +120,7 @@ text-align: center;
 color: #434455;
 }
 .port-title {
+    text-transform: capitalize;
     font-weight: 700;
 font-size: 36px;
 line-height: 111%;
@@ -146,10 +152,10 @@ color: #434455;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 .footer-web {
-    color: #4d5ae5;
+    color: #f4f4fd;
 }
 .footer-text {
     font-weight: 400;
