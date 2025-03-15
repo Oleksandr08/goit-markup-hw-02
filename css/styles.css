@@ -121,10 +121,11 @@ color: #434455;
 }
 .port-title {
     text-transform: capitalize;
+    
     font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 }
