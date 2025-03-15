@@ -73,7 +73,7 @@ body {
 }
 .main-button:hover,
 .main-button:focus {
-    background-color: 404bbf;
+    background-color: #404bbf;
 }
 .adv-title {
     font-weight: 500;
@@ -121,7 +121,6 @@ color: #434455;
 }
 .port-title {
     text-transform: capitalize;
-    
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
